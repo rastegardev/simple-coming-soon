@@ -8,6 +8,7 @@
 body {
   height: 70vh;
   display: flex;
+  align-items: center;
   flex-direction: column;
   font-family: "IRANSansX";
   justify-content: center;
